@@ -17,5 +17,5 @@ Harga bahan pokok sering kali berfluktuasi karena faktor-faktor seperti cuaca, m
 # Team
 | No  | Nama               |    NIM     | Kelas |
 |:---:|:-------------------|:----------:|:-----:|
-|  1  | Aura Syaakirah     | 2210512019 | DS-H  |
+|  1  | [Aura Syaakirah](https://github.com/syaakirah)     | 2210512019 | DS-H  |
 |  2  | Defita Rahmawati   | 2210512031 | DS-H  |
