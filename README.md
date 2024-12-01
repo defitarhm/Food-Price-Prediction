@@ -1,7 +1,7 @@
-# Prediksi Harga Bahan Pangan Pokok di Provinsi DKI Jakarta Menggunakan Algoritma Seasional Autoregressive Integrated Moving Average (SARIMA)
+# Prediksi Harga Bahan Pangan Pokok di Provinsi DKI Jakarta Menggunakan Algoritma SARIMA
 
 # Project Summary
-Program ini bertujuan untuk memprediksi harga bahan pangan pokok di Provinsi DKI Jakarta menggunakan model SARIMA. Fokusnya adalah memberikan wawasan mengenai pola fluktuasi harga bulanan dan mendukung pengambilan keputusan terkait kebijakan stabilisasi harga dan pengelolaan stok oleh pelaku usaha. Analisis dilakukan pada beberapa bahan pangan pokok, seperti ayam, beras, cabe, garam, gula, telur ayam, dan tepung terigu.
+Program ini bertujuan untuk memprediksi harga bahan pangan pokok di Provinsi DKI Jakarta menggunakan model SARIMA (Seasional Autoregressive Integrated Moving Average). Fokusnya adalah memberikan wawasan mengenai pola fluktuasi harga bulanan dan mendukung pengambilan keputusan terkait kebijakan stabilisasi harga dan pengelolaan stok oleh pelaku usaha. Analisis dilakukan pada beberapa bahan pangan pokok, seperti ayam, beras, cabe, garam, gula, telur ayam, dan tepung terigu.
 
 # Problem
 Harga bahan pokok sering kali berfluktuasi karena faktor-faktor seperti cuaca, momen hari besar, dan kebijakan ekonomi seperti kenaikan harga BBM. Kondisi ini menyebabkan:
